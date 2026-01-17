@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Super blog: Welcome to my blog!
 ---
